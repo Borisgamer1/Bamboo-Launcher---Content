@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 2,
-  "updatedAt": "2026-07-17T20:53:30.029Z",
+  "version": 3,
+  "updatedAt": "2026-07-19T13:33:28.723Z",
   "files": [
     {
       "path": "Blockbench Models/Duck Crown.bbmodel",
@@ -49,24 +49,14 @@
       "size": 800
     },
     {
-      "path": "textures/Duck Crown/crown_high.png",
-      "hash": "801ce47539eb51fd84f0dad847eb08114f8ba07c0783cb6d8e0ea10edf2c14d5",
-      "size": 1267
+      "path": "manifest.json",
+      "hash": "0ba3cc6c4e92d6862ae599d58a79560b7c9398f948dc99291890ffdccd12cc0a",
+      "size": 2333
     },
     {
-      "path": "textures/Duck Crown/crown_low.png",
-      "hash": "7d83ef1a4802d9619525be3fa626520c96e9824b5f25c2293e4c74229b167b2d",
-      "size": 1407
-    },
-    {
-      "path": "textures/Duck Crown/duck.png",
-      "hash": "90737fbb2a51e4b2f8dd5719ce68a5c13759e1a14e3995470aa27bf088e6d1d4",
-      "size": 964
-    },
-    {
-      "path": "textures/Duck Crown/nest.png",
-      "hash": "aba347306fb174e3e7e76bf6edc5a3b1cdb921797cf7cb69b30e81a0f1520123",
-      "size": 1992
+      "path": "README.md",
+      "hash": "240a9c4ca67b64521abda1e611dbcda74ecda9f15d785f3543557b2c6d6bcb16",
+      "size": 154
     }
   ]
 }
